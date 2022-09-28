@@ -1,0 +1,4 @@
+etcd server
+kubeapi-server
+scheduler
+controller-manager
